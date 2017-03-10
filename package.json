@@ -1,0 +1,22 @@
+{
+  "name": "laughing-palm-tree",
+  "version": "1.0.0",
+  "description": "> this isn't anything related to palm tree. Github suggested it, will change it later.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vajahath/laughing-palm-tree.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vajahath/laughing-palm-tree/issues"
+  },
+  "homepage": "https://github.com/vajahath/laughing-palm-tree#readme",
+  "dependencies": {
+    "levelup": "^1.3.5"
+  }
+}
